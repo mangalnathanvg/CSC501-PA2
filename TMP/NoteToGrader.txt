@@ -1,0 +1,14 @@
+PA2 - Demand Paging
+Name: Mangalnathan Vijayagopal
+Unity ID: mvijaya2
+
+1) Test cases 2 and 6 will only pass when run separately.
+2) Test cases 1, 3, 5 will pass when all tests are run continuously.
+3) Did not implement frame replacement policies. Test 7 and Test 8 will fail
+4) Had trouble with shared backing store, so could not work on that. Test 4 will fail
+
+In total, 5 test cases should pass when each test case is run separately.
+I hope you consider.
+ 
+References: 
+1) PA2 Assignment document and the links embedded with it.
